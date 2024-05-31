@@ -5,7 +5,7 @@
     $serverName = "servercomputo2.database.windows.net"; // update me
     $connectionOptions = array(
         "Database" => "bdComputo", // update me
-        "Uid" => "administrador", // update me
+        "Uid" => "azureuser", // update me
         "PWD" => "SanUniLagCow12" // update me
     );
     //Establishes the connection
